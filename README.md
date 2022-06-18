@@ -75,7 +75,7 @@ The **Vitewind plugin** register a layout component to inject JS and CSS assets,
 
 ![Layout component](./assets/images/layout-component.png)
 
-Put the component in the layout and set the JS files you need to load for each layout, you can use differente JS files for each layout.
+Put the component in the layout and set the JS files you need to load for each layout, you can use different JS files for each layout.
 
 ![Layout component](./assets/images/layout-component-settings.png)
 
