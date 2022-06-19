@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <p align='center'>
-  <img src='assets/images/readme.png' alt='Vite' width='50%'/>
+  <img src='https://res.cloudinary.com/chkilel/image/upload/v1655656695/vitawind-theme/Github-preview_rqysbq.png' alt='Vitawind' width='50%'/>
 </p>
 <br/>
 
